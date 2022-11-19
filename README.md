@@ -6,5 +6,5 @@ Look some off my python repositories:
 **PyTest simple study**
 
 This repositorie it's a simple study about PyTest
-[a link](https://github.com/italoooliveira/python-study-pytest)
+[link do repositório](https://github.com/italoooliveira/python-study-pytest)
 
