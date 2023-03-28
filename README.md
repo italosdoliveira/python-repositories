@@ -26,3 +26,6 @@ This repositorie was created for my father, he is a comercial representative, th
 
 **Get wifi logged password**
 [repository link](https://github.com/italoooliveira/get-wifi-password-in-computer-python)
+
+**Fast api with docker**
+[repository link](https://github.com/italosdoliveira/docker-fastapi-simple-example)
